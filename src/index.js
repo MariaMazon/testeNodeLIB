@@ -16,7 +16,7 @@ function  extraiLinks (texto){
 
     // console.log(capturas);
     // console.log(resultados);
-     return resultados;
+     return resultados.length!==0?resultados:"Não há liks no arquivo";
 }
 
 // extraiLinks(texto);
@@ -78,7 +78,8 @@ async function pegaArquivo(caminhoDoArquivo){
         const encoding="utf-8";
         const texto=await fs.promises.readFile(caminhoDoArquivo, encoding);
         // console.log(chalk.blue(texto));
-        console.log(extraiLinks(texto));
+        // console.log(extraiLinks(texto));
+        return extraiLinks(texto);
     } catch(erro){
         trataErro(erro);
     } finally{
