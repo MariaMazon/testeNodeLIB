@@ -2,7 +2,7 @@
 
 ## ✒️ Autora
 
-A turma de Jovens Aprendizes da Petrobras que direcionam seus estudos no desenvolvimento web, confeccionou o respectivo repositório juntamente com o auxilio do professor Marcelo , afim de aperfeiçoar seus conhecimentos sobre o GitHub e suas funcionalidades. 
+A turma de Jovens Aprendizes da Petrobras que direcionam seus estudos no desenvolvimento web, confeccionou o respectivo repositório juntamente com o auxilio do professor Marcelo, a fim de aperfeiçoar seus conhecimentos sobre o GitHub e suas funcionalidades. 
 
 ##  📋  Breve descrição
 
