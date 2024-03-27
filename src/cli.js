@@ -19,7 +19,6 @@ if(valida){
     await listaValidada(resultado));
 }
 else{
-    
     console.log(chalk.yellow('lista de links'),
     chalk.black.bgGreen(identificador),
     resultado);
